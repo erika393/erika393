@@ -1,4 +1,5 @@
-<img align="right" width="450px" style="margin-top:-20px" src="https://i.ibb.co/R78K5Vj/1658168294796.png">
+<!--<img align="right" width="450px" style="margin-top:-20px" src="https://i.ibb.co/R78K5Vj/1658168294796.png">-->
+<img align="right" width="450px" style="margin-top:-20px" src="programmer.gif">
 
 # Hello, I am Erika! 👋
 Welcome to the profile of a passionate about programming, who entered this universe in 2019 and does not intend to leave.
@@ -19,7 +20,7 @@ Welcome to the profile of a passionate about programming, who entered this unive
   <img src="https://i.ibb.co/fQRNHbV/gmail.png" alt="gmail" border="0" width="50px">
 </a>
 
-<img align="right" width="300px" style="margin-top:40px" src="https://i.ibb.co/ZNvJXRD/1658168360691.png">
+<img align="right" width="300px" style="margin-top:40px" src="https://i.ibb.co/grnQwGg/1658168586901.png">
 
 ## 💻 Technologies and Tools
 
