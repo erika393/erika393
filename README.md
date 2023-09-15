@@ -8,7 +8,7 @@ Welcome to the profile of a passionate about programming, who entered this unive
   
   📚 I'm constantly studying programming
   
-  🎓 I'm studying Computer Science at UNIVALI
+  🎓 I'm studying Computer Science at UFSC
 
 
 ## 🔍 Find Me
