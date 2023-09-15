@@ -48,7 +48,7 @@ Welcome to the profile of a passionate about programming, who entered this unive
 <img width="50px" src="https://i.ibb.co/JpQmbF4/rabbitmq-icon.png"/>
 
 ## Summary About My GitHub
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erika393&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erika393&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **erika393/erika393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
